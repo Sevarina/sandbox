@@ -15,3 +15,4 @@
 (11) wenn eine Spielerin einen signifikanten Beitrag (~ 1000 Zeichen) zu den Lore Dokumenten geleistet hat, bekommt einer ihrer SC entweder einen Fabula Point oder 1 max REP pro 1000 Zeichen - als Nachweis wird ein Git commit report empfohlen
 Dieser Vorgang muss am Discord öffentlich gemacht werden und ist erst gültig wenn entweder eine andere Spielerin ihn überprüft oder 7 Tage vergehen.
 (12) diese Sandbox vertraut ihren Spielern, wenn Spielerinnen dieses Vertrauen missbrauchen werden sie dem Server verwiesen
+(13) jeder Spielerin steht es frei neue Spieler in den Server einzuladen
