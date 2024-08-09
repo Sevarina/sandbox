@@ -32,3 +32,5 @@
 (13) Eine Spielerin darf unbegrenzt viele Charaktere gleichzeitig führen
 
 (14) Wenn die Spielergruppe es nicht schaffen eine Mission in einer Session abzuschließen, reisen sie nach Hause und eine andere Gruppe kann an einem anderen Tag versuchen sie abzuschließen
+
+(15) SCs dürfen paranormal sein - die Behörde ist einer der wenigen Orte an denen paranormale Personen offen ihre Kräfte einsetzen dürfen
