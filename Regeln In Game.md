@@ -1,6 +1,6 @@
 (0) aus Gründen einfacherer Lesbarkeit wird ausschließlich die feminine Wortform verwendet, es sind natürlich alle Geschlechter gemeint 
 
-(1) wir verwenden folgendes Regelwerk: Fabula Ultima - ohne Playtest Material, nur offically published
+(1) wir verwenden folgendes Regelwerk: Fabula Ultima - nur das Grundregelwerk!
 
 (2) die SCs (Spielercharaktere) sind Behördenorgane und werden gefeuert wenn sie sich ungebührlich verhalten (nach Ermessen aller Spieler die in einer Session anwesend sind), Beispiele sind: Diebstahl, sinnlose Morde und ähnliche Verbrechen.
 
