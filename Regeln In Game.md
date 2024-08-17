@@ -6,7 +6,7 @@
 
 (2) die SCs (Spielercharaktere) sind Behördenorgane und werden gefeuert wenn sie sich ungebührlich verhalten (nach Ermessen aller Spieler die in einer Session anwesend sind), Beispiele sind: Diebstahl, sinnlose Morde und ähnliche Verbrechen.
 
-(3) Die aktuellen Werte jedes Charakter müssen in der Mastertabelle eingetragen werden, damit die Spielleitung darauf zugreifen kann. Sollten die Werte am Charactersheet und in der Tabelle nicht übereinstimmen ist die Tabelle korrekt. 
+(3) Die aktuellen Werte jedes Charakter müssen in der Mastertabelle eingetragen werden, damit die Spielleitung darauf zugreifen kann. Sollten die Werte am Charactersheet und in der Tabelle nicht übereinstimmen ist die Tabelle korrekt. https://docs.google.com/spreadsheets/d/1-rCuOK6xHsRZHF7EaKTPCnJtOwjvarRz268bGehcGIM/edit?usp=sharing
 
 (4) Magic Items und andere wichtige Gegenstände die gefunden werden landen im Fundus und sind für alle Spielerinnen greifbar - es gibt keine privaten magic items
 
