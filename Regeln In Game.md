@@ -1,6 +1,8 @@
 (0) aus Gründen einfacherer Lesbarkeit wird ausschließlich die feminine Wortform verwendet, es sind natürlich alle Geschlechter gemeint 
 
 (1) wir verwenden folgendes Regelwerk: Fabula Ultima - nur das Grundregelwerk!
+	(a) die Spielwelt ist bereits vorgefertigt - Spielerinnen bauen nur Charaktere die sich darin bewegen. Seiten 148 - 153 im Regelwerk sind gegenstandslos.
+	(b) Spielerinnen dürfen ihren Charakter zwischen Sessions beliebig verändern (re-spec) bis sie die dritte Session gespielt haben. Das soll Anfängerinnen ermöglichen ihren SC an das Setting anzupassen
 
 (2) die SCs (Spielercharaktere) sind Behördenorgane und werden gefeuert wenn sie sich ungebührlich verhalten (nach Ermessen aller Spieler die in einer Session anwesend sind), Beispiele sind: Diebstahl, sinnlose Morde und ähnliche Verbrechen.
 
