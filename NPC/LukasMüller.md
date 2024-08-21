@@ -37,5 +37,9 @@ eingegangen war, konnte durch die unverzügliche Enteignung seines Gutes gemäß
 §25 Absatz 33 der Kaiserlichen Hoflieferantenverwaltungsverordnung rechtmäßig aufgehoben werden.
 
 Das Anwesen des unredlichen Herrn Adler steht nun unter der treuhänderischen Verwaltung der Behörde.
+
+Siehe Aktenzeichen/AZ1 für genauere Fallberichte
+
+
 Für Kaiser, König und Vaterland,
 Sonderbezirkswachtmeister Reinhard Feuervogel
