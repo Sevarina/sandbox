@@ -1,7 +1,7 @@
-Hofrat: Roxanne
+Hofrat: Roxanne Mondragon
 
-Hofratsstellvertretung: Gustav Lachmann
-Polizeidelegat: Sonderbezirkswachtmeister Reinhard Feuervogel
-Stratege: Stabsfeldwebel a.D. Theodor Bachmann 
-Klerikalvertreter und Seelsorger: Ehrenwerter Bruder Albert Lichtbringer
-Delegat der Kaiserlichen Dämonenjäger: Constantin Winchester
+Hofratsstellvertretung: Gustav Lachmann (Loremaster/Sharpshooter)
+Polizeidelegat: Sonderbezirkswachtmeister Reinhard Feuervogel (Spiritist/Entropist/Orrator)
+Stratege: Stabsfeldwebel a.D. Theodor Bachmann (Entropist/Spiritist/Loremaster)
+Klerikalvertreter und Seelsorger: Ehrenwerter Bruder Albert Lichtbringer (Spiritualist/Entropist/Elementalist)
+Delegat der Kaiserlichen Dämonenjäger: Constantin Winchester (Loremaster/Darkblade)
