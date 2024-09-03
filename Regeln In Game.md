@@ -37,4 +37,16 @@
 
 (15) SCs dürfen paranormal sein - die Behörde ist einer der wenigen Orte an denen paranormale Personen offen ihre Kräfte einsetzen dürfen
 
-(16) Für die verwendung der Project-Fähigkeit des Tinkerers siehe Projekte.md
+(16-neu) Für die verwendung der Project-Fähigkeit des Tinkerers siehe Projekte.md
+
+(17-neu) Es ist Spielern erlaubt die auf dem Git liegende Arcanist Revision zu verwenden
+
+(18-neu) Die optional rule "Invoking to fail" ist erlaubt
+
+	Once per scene before making a Check, a Player may describe
+	how the character's Bonds or Traits prevent them from achieving
+	success - this is done instead of performing the Check itself.
+	The Check is then treated as an automatic failure with a Result and High Roll
+	equal to 0. Then, the character gains 1 Fabula Point.
+	You cannot invoke to fail on Support Checks (page 50), and you cannot succeed
+	at a cost (page 45) on a Check you already invoked to fail.

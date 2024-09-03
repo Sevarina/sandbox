@@ -27,4 +27,3 @@
 Dieser Vorgang muss am Discord öffentlich gemacht werden und ist erst gültig wenn entweder eine andere Spielerin ihn überprüft oder 7 Tage vergehen.
 (14) jeder Spielerin steht es frei neue Spielerinnen in den Server einzuladen
 
-(15-neu) Für die verwendung der Project-Fähigkeit des Tinkerers siehe Projekte.md

@@ -16,3 +16,10 @@ Beim Progress 1 Einheit Pro Tinker pro Sandboxsession , wenn dem jeweiligen Proj
 nur 1 aktiver Tinker je Spieler für diesen progress,)
 jeder Spieler darf maximal 2 Consumables haben.[vorerst]
 6-0 PASSED
+
+Julian/Reinhard
+ABSTIMMUNG
+Der Arcanist ist erfahrungsgemäß in den Grundregeln nahezu unspielbar. 
+Ich würde gerne den Arcanist des Playtests einführen.
+4-0 PASSED
+
