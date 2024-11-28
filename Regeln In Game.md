@@ -50,3 +50,7 @@
 	equal to 0. Then, the character gains 1 Fabula Point.
 	You cannot invoke to fail on Support Checks (page 50), and you cannot succeed
 	at a cost (page 45) on a Check you already invoked to fail.
+
+(19-neu) Spieler erhalten am Ende jeder Session Zenith im Wert von 5 * erwirtschafteten XP der Session
+
+(20-neu) Spieler bekommen am Ende der Session automatisch 6 IP zurück.
