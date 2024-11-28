@@ -51,6 +51,6 @@
 	You cannot invoke to fail on Support Checks (page 50), and you cannot succeed
 	at a cost (page 45) on a Check you already invoked to fail.
 
-(19-neu) Spieler erhalten am Ende jeder Session Zenith im Wert von 5 * erwirtschafteten XP der Session
+(19-neu) SCs erhalten am Ende jeder Session Zenith im Wert von 5 * erwirtschafteten XP der Session
 
-(20-neu) Spieler bekommen am Ende der Session automatisch 6 IP zurück.
+(20-neu) SCs bekommen am Ende der Session automatisch 6 IP zurück.
