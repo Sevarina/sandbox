@@ -13,7 +13,7 @@
 (5) Um Magic Items (und andere starke Items) aus dem Fundus zu entnehmen müssen die Spieler REPUTATION (REP) Punkte einsetzen
 	(a) Jeder SC startet mit REP = Würfel niedrigstes Attribute * Würfel zwei niedrigstes Attribut * Character Level
 	(b) REP geht zu Beginn jeder Session zurück auf seinen maximalen Wert
-	(c) der Leihwert eines Magic item entsprich seinem Zenit Kosten laut Regelwerk
+	(c) der Leihwert eines Magic item entsprich seinem Zenit Kosten/2 laut Regelwerk
 	(d) eine Spielerin kann jederzeit eine Rückblende machen in der sie ein Magic Item aus dem Fundus entnommen hat
 	(e) Wenn ein SC "surrender" eingestehen muss, verliert sie permanent max REP äquivalent zu ihrem Level
 	
@@ -54,3 +54,7 @@
 (19-neu) SCs erhalten am Ende jeder Session Zenith im Wert von 5 * erwirtschafteten XP der Session
 
 (20-neu) SCs bekommen am Ende der Session automatisch 6 IP zurück.
+
+(21-neu) Magic Items können für Zenith Preis / 2 in REP ausgeborgt werden. (5 updated as well)
+
+(22-neu) XP für Git Einträge (1XP für einen einfachen Eintrag (Fundus, Location, NPC, SC Description etc. / 3XP für einen Sessionbericht)
