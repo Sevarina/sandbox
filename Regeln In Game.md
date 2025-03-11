@@ -56,5 +56,3 @@
 (20-neu) SCs bekommen am Ende der Session automatisch 6 IP zurück.
 
 (21-neu) Magic Items können für Zenith Preis / 2 in REP ausgeborgt werden. (5 updated as well)
-
-(22-neu) XP für Git Einträge (1XP für einen einfachen Eintrag (Fundus, Location, NPC, SC Description etc. / 3XP für einen Sessionbericht)
