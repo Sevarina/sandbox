@@ -23,7 +23,8 @@
 (10) diese Sandbox endet spätestens am 1.9. 2025
 (11) alle Spielerinnen dürfen an den Lore Dokumenten mitschreiben
 (12) Lore Dokumente haben den Vorlagen zu entsprechen
-(13) wenn eine Spielerin einen signifikanten Beitrag (~ 1000 Zeichen) zu den Lore Dokumenten geleistet hat, bekommt einer ihrer SC entweder einen Fabula Point oder 1 max REP pro 1000 Zeichen - als Nachweis wird ein Git commit report empfohlen
+(13) wenn eine Spielerin einen signifikanten Beitrag (~ 1000 Zeichen) zu den Lore Dokumenten geleistet hat, bekommt einer ihrer SC XP nach den folgenden Regeln: (1XP für einen einfachen Eintrag (Fundus, Location, NPC, SC Description etc. / 3XP für einen Sessionbericht) - als Nachweis wird ein Git commit report empfohlen
 Dieser Vorgang muss am Discord öffentlich gemacht werden und ist erst gültig wenn entweder eine andere Spielerin ihn überprüft oder 7 Tage vergehen.
 (14) jeder Spielerin steht es frei neue Spielerinnen in den Server einzuladen
+(15) added XP Regel für Git Commits unter (13)
 
