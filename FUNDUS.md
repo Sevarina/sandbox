@@ -1,3 +1,5 @@
+Die SCs haben in Session 13 eine Traisine besorgt, welche von nun an für die Behörde am Leobner Bahnhof abgestellt ist
+
 Amulett of Fortitude - 500 z: You are immune to weak
 Hellfist - 350 z: one-handed, melee, targets magic defense [DEX+MIG] [HR+5] dark
 Unendlicher Flachmann - 100 z; Erzeugt jeden Tag 4L guten Eierlikör
