@@ -14,6 +14,8 @@ Kaiserliche Medizinerin (Lebendig und Tot) Fr. Dr. Franziska Knie
 
 Ehrenwerte Wissenschaftlerin (Breites Spektrum an Expertisen) Fr. Dr. Leopoldine Persica
 
+Mönch Adson - neu in der Behörde.
+
 
 Jan - Nachname unbekannt. Wurde durch die SCs in Session 13 gerettet und fungiert als Ansprechsperson für die Polizei, wenn Hr. Feuervogel außer Haus ist. (Spricht kein Deutsch - nur Tschechisch)
 
